@@ -1,0 +1,15 @@
+#main {color: red;}
+.list-item {background-color: yellow;}
+.silly {height: 150px; width: 300px; background: linear-gradient(#3498db,#e74c3c); margin-left: 50%; margin-right: 50%;}
+h1 {font-family: Georgia; font-size: 24px;}
+p {margin: 20px; padding: 10px;}
+span {color: rgba(66, 195, 255, 0.5);}
+li {border: 2px solid rgb(8, 170, 57);}
+.akapit1:hover {color: rgb(100, 0, 0); text-decoration: underline;}
+.akapit2:hover {color: rgb(0, 77, 100); text-decoration: underline;}
+.link1:visited {color: gray}
+.container {background-color: #3498db; display: flex; flex-direction: row; justify-content: space-evenly; color: white; justify-items: center;}
+.grid-container {display: flex; flex-direction: column;}
+.a {height: 200px; width: 10%; background-color: yellow; border: 2px solid black}
+.b {height: 200px; width: 40%; border: 2px solid black}
+
